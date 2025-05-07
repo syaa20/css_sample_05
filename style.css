@@ -1,0 +1,43 @@
+@charset "UTF-8"; 
+
+body {
+  background-color: rgba(255, 191, 191, 0.316);
+}
+ 
+#wrap {
+  width: 960px;
+  margin: auto;
+  background-color: white;
+  border: 20px rgb(255, 230, 139) solid;
+  padding: 50px;
+}
+ 
+header   {
+  padding: 40px;
+  height: 80px;
+}
+ 
+nav {
+  padding: 8px 40px;
+  background-color: rgba(139, 46, 3, 0.705);
+  color: rgb(215, 251, 164);
+  border-radius: 10px;
+}
+ 
+main{
+  padding: 40px;
+  height : 400px;
+}
+ 
+footer   {
+  padding: 40px;
+  color: thistle;
+  height: 40px;
+  background-color : rgb(21, 127, 185);
+  color: white;
+}.circle img {
+    border-radius: 50%;
+    width: 300px;
+  }  
+  
+
